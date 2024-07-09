@@ -37,13 +37,6 @@
       <scope>test</scope>
     </dependency>
 
-    <!-- JSON Dependency -->
-    <dependency>
-      <groupId>org.json</groupId>
-      <artifactId>json</artifactId>
-      <version>${json.version}</version>
-    </dependency>
-
     <!-- Data Provider -->
     <dependency>
       <groupId>com.tngtech.junit.dataprovider</groupId>
